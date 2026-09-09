@@ -2,13 +2,6 @@
 
 ### A developer learning to program
 
-<!-- Tech stack badges — swap these for whatever you actually use -->
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 - 🔭 I'm currently working on **[a CV Rock Paper Scissors Game]([https://github.com/Alex-Skillman/project-name](https://github.com/Alex-Skillman/CV-Rock-Paper-Scissors))** — A Rock Paper Scissors game that you play on a camera against the computer
 - 🌱 I'm currently learning **Rust / Web Dev / Neural networks**
 - 👯 I'm looking to collaborate on **open-source tooling / dev productivity projects**
