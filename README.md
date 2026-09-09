@@ -9,15 +9,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- 🔭 I'm currently working on **[project-name](https://github.com/Alex-Skillman/project-name)** — a short description of what it does
-- 🌱 I'm currently learning **Rust / Kubernetes / (whatever's true)**
+- 🔭 I'm currently working on **[a CV Rock Paper Scissors Game]([https://github.com/Alex-Skillman/project-name](https://github.com/Alex-Skillman/CV-Rock-Paper-Scissors))** — a short description of what it does
+- 🌱 I'm currently learning **Rust / Web Dev / Neural networks**
 - 👯 I'm looking to collaborate on **open-source tooling / dev productivity projects**
-- 🤔 I'm looking for help with **finding good first issues in [X ecosystem]**
-- 💬 Ask me about **backend architecture, API design, or debugging weird bugs**
-- 📫 How to reach me: **your-email@example.com** or **[LinkedIn](https://linkedin.com/in/yourprofile)**
-- 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **something quirky and memorable about you**
-
+- 🤔 I'm looking for help with **finding good first issues in any developed projects**
+- 📫 How to reach me: **askillman2010@gmail.com**
 ---
 
 <div align="center">
