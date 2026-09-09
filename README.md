@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Alex-Skillman&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Alex-Skillman&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Alex-Skillman&layout=donut&langs_count=3&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Alex-Skillman&layout=donut&langs_count=3&theme=transparent)
+
 <!--
 **Alex-Skillman/Alex-Skillman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
