@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Alex Skillman
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Alex-Skillman&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Alex-Skillman&hide_rank=true&show_icons=true&include_all_commits=true&theme=transparent)
 
